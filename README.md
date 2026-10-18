@@ -6,6 +6,8 @@
 
 I build **auditable AI and data products** for finance, payments and merchant growth. My work combines accounting discipline, banking-operations experience and hands-on product development with Python, SQL, React and structured AI workflows.
 
+我把会计与银行运营中的真实业务问题，转化为可验证指标、受约束 AI 输出和可部署产品；重点关注商户增长、客户生命周期与可靠决策支持。
+
 Currently studying for an **MA in International Accounting at City University of Hong Kong** after nearly three years in banking operations at ICBC.
 
 ## What I build
@@ -29,7 +31,7 @@ Business problem -> Reliable metrics -> AI interpretation -> Human review -> Dep
       <p><strong>React · TypeScript · Vite · Recharts · Netlify Functions · Structured AI</strong></p>
       <p>
         <a href="https://github.com/rime0568/merchant-growth-intelligence">Repository</a> ·
-        <a href="https://merchant-qr-retention-analysis.netlify.app/">Analytics demo</a>
+        <a href="https://merchant-qr-retention-analysis.netlify.app/?page=brief">AI product demo</a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -50,6 +52,12 @@ My accounting and banking background shapes how I build:
 - preserve data provenance and document assumptions;
 - design exception handling, reconciliation and review into the workflow;
 - translate analytical findings into operational actions that business teams can use.
+
+## Why AI Builder
+
+- **Build, not just prompt:** I connect data generation, metric logic, interface design, serverless model calls, evaluation and deployment.
+- **Marketing relevance:** merchant segmentation and retention translate directly into CRM, lifecycle communication and campaign decision support.
+- **Responsible delivery:** the model receives aggregate evidence, returns a strict schema and stays behind human review.
 
 ## Toolkit
 
