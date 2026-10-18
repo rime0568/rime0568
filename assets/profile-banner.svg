@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="310" viewBox="0 0 1200 310" role="img" aria-labelledby="title desc">
+  <title id="title">Yilin Yang - AI and Data Product Builder</title>
+  <desc id="desc">Professional navy and teal banner connecting finance, reliable data and AI products.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b2230"/>
+      <stop offset="0.62" stop-color="#123f4a"/>
+      <stop offset="1" stop-color="#0f766e"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#5eead4" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#5eead4" stop-opacity="0.85"/>
+      <stop offset="1" stop-color="#93c5fd" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="9"/></filter>
+  </defs>
+  <rect width="1200" height="310" rx="18" fill="url(#bg)"/>
+  <circle cx="1030" cy="50" r="165" fill="#2dd4bf" opacity="0.08"/>
+  <circle cx="1110" cy="255" r="210" fill="#60a5fa" opacity="0.07"/>
+  <path d="M690 235 C780 120 840 245 925 130 S1070 215 1170 78" fill="none" stroke="url(#line)" stroke-width="3"/>
+  <g fill="#99f6e4">
+    <circle cx="755" cy="170" r="6"/><circle cx="850" cy="204" r="6"/><circle cx="925" cy="130" r="6"/><circle cx="1015" cy="178" r="6"/><circle cx="1110" cy="125" r="6"/>
+  </g>
+  <g transform="translate(70 64)">
+    <text x="0" y="52" fill="#f8fafc" font-family="Segoe UI, Arial, sans-serif" font-size="48" font-weight="700">Yilin Yang</text>
+    <text x="2" y="96" fill="#99f6e4" font-family="Segoe UI, Arial, sans-serif" font-size="23" font-weight="600">AI &amp; Data Product Builder</text>
+    <text x="2" y="133" fill="#cbd5e1" font-family="Segoe UI, Arial, sans-serif" font-size="17">Finance · Merchant Growth · Explainable AI</text>
+    <rect x="2" y="159" width="515" height="1" fill="#5eead4" opacity="0.55"/>
+    <text x="2" y="198" fill="#e2e8f0" font-family="Segoe UI, Arial, sans-serif" font-size="16">Reliable metrics → Grounded interpretation → Human decisions</text>
+  </g>
+  <g transform="translate(985 124)" opacity="0.88">
+    <rect x="0" y="0" width="70" height="70" rx="17" fill="#0b2230" stroke="#5eead4" stroke-width="2"/>
+    <path d="M20 38h30M24 27h22M28 49h14" stroke="#5eead4" stroke-width="4" stroke-linecap="round"/>
+  </g>
+</svg>
